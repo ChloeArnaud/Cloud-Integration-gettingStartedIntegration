@@ -1,5 +1,7 @@
 package test;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 public class AccountService {
 
     public MyAccount myService(MyAccount myAccount){
